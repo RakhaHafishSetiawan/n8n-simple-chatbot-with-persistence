@@ -125,6 +125,12 @@ Batching and concurrency limits should be tuned based on hardware capacity.
 
 ---
 
+# Workflow Demonstration
+
+
+https://github.com/user-attachments/assets/3016e6c7-e671-4852-b5af-d40d560e83db
+
+
 # 🔍 How It Works (Runtime Flow)
 
 1. User sends message
